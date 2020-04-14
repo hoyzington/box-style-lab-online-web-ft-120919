@@ -5,10 +5,10 @@ body {
   margin: 0 auto;
   display: block;
   text-align: center;
-  background-image: url("../images/white-wood.jpg");
+  /*background: url("../images/white-wood.jpg");
   background-image: url('./images/augustus_gloop.jpg');
-  /*background-color: #cccccc;*/
-  background-size: cover;
+  background-color: #cccccc;
+  background-size: cover;*/
   background: url("../images/white-wood.jpg") no-repeat fixed;
   background-size: cover;
 }
