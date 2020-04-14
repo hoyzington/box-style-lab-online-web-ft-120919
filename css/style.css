@@ -7,6 +7,8 @@ body {
   text-align: center;
   background: #ddd url("../images/white-wood.jpg") no-repeat fixed;
   /*background-size: cover;*/
+  position: fixed;
+  top: 0;
 }
 
 .container, h1 {
