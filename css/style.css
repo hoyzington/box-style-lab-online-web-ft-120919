@@ -6,10 +6,7 @@ body {
   display: block;
   text-align: center;
   background: #ddd url("../images/white-wood.jpg") no-repeat fixed;
-  /*background-color: #cccccc;*/
-  background-size: cover;
-  /*background: url("../images/white-wood.jpg") no-repeat fixed;
-  background-size: cover;*/
+  /*background-size: cover;*/
 }
 
 .container, h1 {
